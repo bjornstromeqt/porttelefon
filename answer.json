@@ -2,10 +2,6 @@
     {
         "action": "talk",
         "text": "Hej du har komme till Ted!",
-        "voice_name": "Emma"
-    },
-    {
-        "action": "dtmf",
-        "digits": [5, 4, 3, 2]
+        "voice_name": "Astrid"
     }
 ]
